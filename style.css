@@ -1,0 +1,24 @@
+
+h1 {
+    color: brown;
+}
+
+
+.header{
+    background-color: cyan;
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    display: flex;
+    background-color: white;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end
+}
